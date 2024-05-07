@@ -3,3 +3,8 @@
 # Containerized App Exercise
 
 Build a containerized app that uses machine learning. See [instructions](./instructions.md) for details.
+
+# Description
+
+This project is a Weather Dashboard application that recommends the users what clothes to wear outside
+  
